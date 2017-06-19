@@ -4,6 +4,10 @@
 
 ![screenshot_20170619-194914](https://user-images.githubusercontent.com/15718174/27296177-2509a73a-5520-11e7-8fb3-cbf2e6ac358b.png)
 
+![scr_20170619_191112_512](https://user-images.githubusercontent.com/15718174/27297149-1398c216-5524-11e7-9379-b1fe9dfc32fd.gif)
+
+See demo at https://www.youtube.com/watch?v=NlJ0lDyr-Gw
+
 Product Flavor
 =======
 Last project release introduce the new flavorDimension "user" with two values:
