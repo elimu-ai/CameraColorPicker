@@ -2,6 +2,8 @@
 
 [Camera Color Picker](http://tvbarthel.github.io/CameraColorPicker/) is an Android application that lets you capture, in real time, the colors around you using the camera of your device.
 
+![screenshot_20170619-194914](https://user-images.githubusercontent.com/15718174/27296177-2509a73a-5520-11e7-8fb3-cbf2e6ac358b.png)
+
 Product Flavor
 =======
 Last project release introduce the new flavorDimension "user" with two values:
