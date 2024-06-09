@@ -21,7 +21,7 @@ The "adult" productFlavor is the historic app with previous user
 experience whereas the "kids" productFlavor introduce some changes in order to
 allow kids to use the app despite the lack of reading skills.
 
-This better experience for kids was initiated by [jo-elimuai](https://github.com/jo-elimuai)
+This better experience for kids was initiated by [jo-elimu](https://github.com/jo-elimu)
 who validated each improvements from an UX point of view thanks to his precious
 knowledges of digital contents for young children.
 
